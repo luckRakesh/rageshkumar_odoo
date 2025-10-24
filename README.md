@@ -1,21 +1,22 @@
-👋 About Me
+👋 Hi, I'm Ragesh Kumar
 
-I’m Ragesh Kumar, a seasoned Odoo Developer & ERP Consultant with 7+ years of experience working across versions Odoo 12–18. I specialize in designing, customizing, and implementing end-to-end Odoo ERP solutions that simplify and automate business operations.
+Odoo Developer | ERP Consultant | Technical & Functional Expert
+
+I’m a passionate Odoo Engineer with 7+ years of hands-on experience across versions Odoo 12–18. I help businesses streamline operations through custom development, smart automation, and seamless integrations, delivering clean, scalable, and reliable ERP solutions.
 
 💻 What I Do
-🔧 Custom Module Development
-🔗 API Integrations & Workflow Automation
-📦 ERP Implementation & Data Migration
-📊 Reports, Dashboards & Accounting Setup
-🧠 Functional Consulting & Process Optimization
 
-🌍 Industries Served
-Sales | Purchase | Inventory | POS | HR | Payroll | CRM | Accounting | Project Management
+🧩 Odoo Implementation & Customization – Tailored workflows for real business needs
+🔗 API Integration & Automation – Connecting Odoo with payment, HR, and eCommerce platforms
+⚙️ Module Development & Upgrades – Building robust, version-compatible modules
+🧾 Reports & Dashboards – Actionable insights through QWeb, XLSX, and BI reporting
+🔄 Migration & Optimization – Smooth upgrades and performance tuning
 
-🚀 My Approach
-Clean code, practical solutions, and reliable delivery — combining both technical depth and functional understanding to make Odoo work the way your business needs.
-📫 Connect With Me
-📧 rakeshrome@outlook.com
+🏢 Functional Expertise
+Sales | Purchase | Inventory | HR | Payroll | Accounting | POS | CRM | Projects
 
+I combine functional understanding with technical precision to deliver ERP systems that don’t just work — they make business operations smarter, faster, and simpler.
+🌍 Let’s Connect
+📧 rageshkumar.odoo@gmail.com
 📱 +91-9566009083
-🌐 LinkedIn Profile - https://www.linkedin.com/in/ragesh-kumar-odoo-erp-1423b4239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🌐 https://www.linkedin.com/in/ragesh-kumar-odoo-erp-1423b4239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
